@@ -9,4 +9,5 @@ pyproject_hooks==1.0.0
 readme-renderer==40.0
 sqlparse==0.4.4
 tzdata==2023.3
+six==1.16.0
 
